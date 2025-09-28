@@ -1,0 +1,1 @@
+This is a Student Management System built with ASP.NET Core, Entity Framework Core (SQL Server), and JWT authentication. Admins can manage students, courses, and enrollments (including grades), while students can log in to view their info and grades. The project uses role-based authentication with ASP.NET Identity and comes with a seeded admin account (admin@example.com
